@@ -1,0 +1,20 @@
+/* Terms and condition css start here */
+.paratext {
+    text-align: center;
+    font-size: 13px;
+    margin-top: 5px;
+}
+.bglight{
+    background-color: lightgray;
+}
+/* end here */
+/* Media query start here */
+@media only screen and (max-width: 479px){
+.terms-condition {
+    padding-top: 20px;
+}
+.paratext {
+    line-height: 2px;
+}
+}
+/* end here */

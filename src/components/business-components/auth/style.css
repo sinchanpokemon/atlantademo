@@ -1,0 +1,78 @@
+/* logo  css start here */
+.logoimg {
+    text-align: center;
+    padding-top: 23px;
+    padding-bottom: 17px;
+
+}
+.white-color{
+    padding: 5px;
+    border-radius: 5px;
+}
+/* logo css end here */
+/* login form css start here */
+    
+.submitbutton {
+    background-color: #EF4B4F;
+    color:white;
+    font-size: 20px;
+}
+.heading {
+color:#262626;
+}
+.sign-heading {
+color:#59626A;
+}
+
+
+.login-form {
+    background-color:#f5f6f7;
+    padding: 23px;
+}
+.fa.fa-angle-right.learn-more {
+    color: #168efa;
+    font-size: 17px;
+
+}
+.paragraph-link {
+    padding-bottom: 33px;
+    text-align: center;
+    font-size: 15px;
+}
+.forgotpassword {
+    color: #168efa;
+}
+
+/* login form css end here */
+/* registration css start here */
+.scholarship-heading
+{
+    color:#59626A;
+    font-size: 13px;
+}
+/* registration css end here */
+/* forgotpassword css start here */
+/* .loginimage {
+    background-image: url("../../img/students.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 52px;
+} */
+.form-color {
+    background-color: white;
+    border-radius: 6px;
+    padding-top: 22px;
+    padding-bottom: 43px;
+}
+.recoverbtn {
+    background-color: #EF4B4F;
+    color:white;
+}
+.input-color {
+    background-color: #fafafa;
+}
+.forgot-form {
+    padding: 23px;
+}
+
+/* forgotpassword css end here */

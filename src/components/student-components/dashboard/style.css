@@ -1,0 +1,15 @@
+.user-icon {
+    font-size: 30px;
+}
+.dashboard-user {
+    font-size: 20px;
+}
+.dashboard-welcome-user-wrapper {
+    padding:10px;
+    background-color: #eee;
+    margin-bottom: 50px;
+}
+.profile-actions-wrapper {
+    padding:20px;
+    display: flex;
+}

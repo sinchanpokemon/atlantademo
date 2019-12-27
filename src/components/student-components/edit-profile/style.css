@@ -1,0 +1,19 @@
+/* edit profile css start here */
+.edibtn {
+    background-color: #EF4B47;
+    color: white;
+    font-size: 20px;
+}
+.edit-form {
+    background-color: #eee;
+    padding: 50px;
+}
+.create-profile {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.edit-profile-heading {
+    background-color: #4471b7;
+color: white;
+}

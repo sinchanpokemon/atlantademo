@@ -1,0 +1,53 @@
+.create-form {
+    background-color: #eee;
+    padding: 50px;
+}
+
+.create-profile-btn {
+    background-color: #EF4B47;
+    color: white;
+    font-size: 20px;
+}
+.create-profile-heading {
+    background-color: #4471b7;
+color: white;
+}
+.input-box-row {
+    display: flex;
+}
+
+.first-step {
+    background-color: #fff;
+    padding:20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.intermediate-step {
+    background-color: #fff;
+    padding:20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.final-step {
+    background-color: #fff;
+    padding:20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.required-asterisk {
+    color:red;
+}
+.form-control {
+    color: #8a8a8a;
+    font-size: 20px;
+    font-weight:300;
+    box-shadow: 0px 0px 6px rgb(237, 236, 236);
+    border: none;
+    border-radius: 0px;
+    font-size: 14px;
+    height: 47px;
+
+}
+.text-muted {
+    color:#4471B7;
+}

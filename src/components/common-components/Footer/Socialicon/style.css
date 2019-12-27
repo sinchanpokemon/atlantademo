@@ -1,0 +1,63 @@
+/* Social icon css start here */
+.socialrow {
+    background-color: #263238;
+    border-top: 1px solid white;
+    padding: 13px;
+}
+.wrapper-icon {
+    display: inline-flex;
+    text-align: center;
+}
+
+.socialicon {
+    margin-left: 16px;
+    color: white;
+   font-size: 20px;
+ margin: 5px 8px;
+ }
+ .socialicon i {
+   line-height: 40px;
+ }
+ .media-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+ }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+   
+  
+
+/* Social icon css end here */
+/* media query start here */
+@media only screen and (max-width: 479px){
+  .appngooglestore {
+    padding-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width:991px){
+    .footerimage {
+        height:36px;
+    }
+    .social-store {
+      margin-left: -50px;
+    }
+
+}
+/* media query end here */

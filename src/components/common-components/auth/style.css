@@ -1,0 +1,44 @@
+.business-wrapper {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    width:100%;
+    
+}
+.select-account-type-title {
+    color: #4471B7;
+
+}
+.student-account {
+    background-color: #F0F6F8;
+    padding: 50px;
+    border-radius: 8px;
+    margin: 10px;
+    display: inline-block;
+}
+.business-account {
+    background-color: #F8F8F0;
+    padding: 50px;
+    border-radius: 8px;
+    margin: 10px;
+    display: inline-block;
+
+}
+.business-account-type-title {
+    color: #EF4B47;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+}
+.student-account-type-title {
+    color: #4471B7;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+
+}
+.account-type-inner-div {
+    margin: 0 auto;
+    position: relative;
+    display: block;
+}

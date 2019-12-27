@@ -1,0 +1,25 @@
+.home {
+    height: 300px;
+    background-color: #fafafa;
+}
+.homepage {
+    text-align: center;
+    padding-top: 100px;
+}
+/* event calender css start here */
+.ornge {
+    background-color: orangered;
+    color: white;
+}
+.black {
+    background-color: black;
+    color: white;
+}
+.row-padding {
+    padding: 15px;
+}
+i.fa.fa-angle-right.right-anglearrow {
+    color:orangered;
+    font-size: 36px;
+}
+/* event calender css end here */

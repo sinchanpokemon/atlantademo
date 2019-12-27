@@ -1,0 +1,10 @@
+.newletter-master-wrapper {
+    background-color: #b5b5b5;
+    padding: 10px;
+}
+.newsletter-email {
+    background-color: #eee;
+    padding: 4px;
+    width: 250px;
+    margin-right: 10px;
+}
